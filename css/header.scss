@@ -1,0 +1,14 @@
+header{
+    grid-area: header;
+    height: 20vh;
+    background-color: black;
+ }
+
+
+ header{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    animation-name: animacion_body;
+    animation-duration: 5s;
+ }
